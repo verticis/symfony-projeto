@@ -1,0 +1,6 @@
+# knp menu configuration (optional)
+knp_menu:
+    twig:
+        template: knp_menu.html.twig
+    templating: false
+    default_renderer: twig

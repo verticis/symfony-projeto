@@ -1,0 +1,8 @@
+sonata_admin:
+    title:      <your application title>
+    title_logo: /path/to/logo.png
+
+    dashboard:
+        blocks:
+            #          # display a dashboard block
+            - { position: left, type: sonata.admin.block.admin_list }

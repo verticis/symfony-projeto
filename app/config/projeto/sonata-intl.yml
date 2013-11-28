@@ -1,0 +1,12 @@
+# Sonata intl configuration
+sonata_intl:
+    timezone:
+        # default timezone used as fallback
+        default: Europe/Paris
+
+
+        # locale specific overrides
+
+        locales:
+            fr: Europe/Paris
+            en_UK: Europe/London
